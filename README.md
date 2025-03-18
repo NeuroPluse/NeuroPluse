@@ -17,8 +17,8 @@ I’m a developer from Russia. I love building code/projects, and this is where 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your_username]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[NeuroPluse]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[NeuroPluse]&layout=compact&theme=radical)
 
 ## 📌 Plans
 - [ ] Finish Game
